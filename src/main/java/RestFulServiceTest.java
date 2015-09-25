@@ -12,8 +12,8 @@ import javax.ws.rs.Path;
  * @author mhajas
  */
 @Stateless
-@SecurityDomain("keycloak")
-@DeclareRoles("keycloak_admin")
+//@SecurityDomain("keycloak")
+//@DeclareRoles("keycloak_admin")
 @Path("/")
 public class RestFulServiceTest {
 
