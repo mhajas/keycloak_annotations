@@ -1,0 +1,10 @@
+{
+  "realm": "test",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0BmWzpWe7bNNjF1WqCuNLoYllRcuK8UQKXy3YTwKTPENQB9WfSxEsoW3N1lliPP9lY0rocP3zwmnorxaoy3FfDt8s3M9ygdw+Wlt59M5WZg23t8JImt0qr3eATit8LDoofqe3k2SG8q8oa/wyV4JExBnCq3puAQ3qlTBoa07JGdgC+kPeVSFaJl7qhS7g9r4sgf8HAtEWcFvtZ7Nz4g4ZSu2NOQd6hU55DmqhoPKQemtijaXW4a2yvUyscfcZ7aLEMHPYUaPuoR3Cpd3yctshrBBe3yAL3mL1YA7pLLI3IQpdC5mqslk5pX3/wjzf9Zrb7tNIJG6hDHHFVmN/SbTvwIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "annotation_test",
+  "credentials": {
+    "secret": "733b7c1d-def2-44ab-b8a4-64ad93c55533"
+  }
+}
